@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+.card{
+    margin: 10% auto;
+    text-align: center;
+    border-radius: 20px;
+    padding: 0px;
+    font-size: 0px;
+    background: #c8c2c2;
+    height: 250px;
+    width: 350px;
+    box-shadow: 20px 20px 20px #ccc;
+    
+}
+
+
+.card-body{
+    background-image: url(img/R.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px;
+    width: 100%;
+    color: #ccc;
+    font-family: 'Courier New', Courier, monospace;
+}
+.card ul li{
+    list-style: none;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
